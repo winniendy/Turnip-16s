@@ -1,0 +1,46 @@
+# Nextflow working directory
+work/
+
+# Results
+results/
+*.out
+*.log
+*.err
+
+# Nextflow hidden files
+.nextflow*
+!nextflow.config
+
+# Reports and metadata
+*.html
+*.txt
+*.dot
+*.xls
+*.csv
+*.tsv
+*.trace
+*.timeline
+
+# Cache
+.nf.cache/
+.nextflow
+
+# Conda/env-related
+.conda/
+*.conda
+*.env
+*.snakemake
+
+# Mac/Linux system files
+.DS_Store
+Thumbs.db
+
+# VS Code (if you're using it)
+.vscode/
+
+# Python/R junk (optional)
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+

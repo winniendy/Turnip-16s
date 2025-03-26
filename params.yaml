@@ -1,0 +1,4 @@
+input_fasta: '/path/to/input/*.fasta'
+output_dir: '/path/to/results'
+blast_db: '/path/to/blastdb/16S_ribosomal_RNA'  # Update this with your actual DB path
+pident_threshold: 90.0
