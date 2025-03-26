@@ -1,4 +1,5 @@
-16S rRNA Identification and BLAST Pipeline
+16S rRNA Identification and BLAST Pipeline:
+
 A Nextflow pipeline for identifying 16S rRNA sequences from genome assemblies using Barrnap, followed by BLAST+ analysis and summarization of results.
 
 Overview
